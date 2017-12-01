@@ -16,3 +16,9 @@ public static void write() throws IOException
  sop(new String(buf,0,len));
  }
 ghjhgjhjhjjh
+
+
+
+
+公元1695年他接他爹的班，考不取功名的结果是接手自家酒馆。
+又听说同乡谁已经入京做上小官，他的梦，来往客谁能买单？
